@@ -6,3 +6,4 @@ this is from feature
 ready
 this is feature 2.0 
 this is from bug
+this is test 1 for testing purpose
